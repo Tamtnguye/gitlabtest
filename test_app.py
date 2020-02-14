@@ -11,7 +11,7 @@ class person:
     def name(self, value):
         self.__name=value
     
-
+#documentation added.
 p = person()
 p.name = "steve jobs"
 print(p.name)
